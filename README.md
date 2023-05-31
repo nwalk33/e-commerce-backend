@@ -11,6 +11,8 @@
 ## Description <a name="description"></a>
 This repository contains the back-end code for an e-commerce website. It provides a functional Express.js API integrated with a MySQL database through Sequelize. 
 
+![Screenshot 2023-05-31 142935](https://github.com/nwalk33/e-commerce-backend/assets/124389890/d009f51d-7d60-43c2-9f19-a3e3b42d9f0d)
+
 ## Installation <a name="installation"></a>
 Clone this repository to your local machine.
 Install the necessary dependencies by running the command: npm install.
